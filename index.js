@@ -1,3 +1,4 @@
 var recipes = {
+  lasagna: regular,
   
 }
