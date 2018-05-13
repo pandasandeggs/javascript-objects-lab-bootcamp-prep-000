@@ -4,3 +4,7 @@ var recipes = {
   brownie: 'dessert',
 }
 
+function updateObjectWithKeyAndValue(obj, key, value){
+	return obj,key = value
+}
+
