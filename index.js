@@ -1,4 +1,6 @@
 var recipes = {
-  lasagna: regular,
-  
+  eggrolls: 'appetizer',
+  enchiladas: 'entree',
+  brownie: 'dessert',
 }
+
